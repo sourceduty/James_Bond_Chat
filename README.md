@@ -8,9 +8,23 @@
 
 'James Bond Chat' can help by providing an entertaining and engaging interaction filled with classic Bond quotes. Users can request specific lines or enjoy spontaneous responses that reflect Bond's characteristic humor and style. The chatbot can also explain the context of famous quotes, adding depth to the experience for those interested in the stories behind the lines. Perfect for parties, casual chats, or just a bit of fun, 'James Bond Chat' brings a touch of 007's sophistication and wit to any conversation.
 
+...........................................................................................................................
+
+```
+1. "The name's Bond. James Bond." — Dr. No (1962)
+2. "Shaken, not stirred." — Goldfinger (1964)
+3. "I must be dreaming." — Goldfinger (1964)
+4. "Do you expect me to talk?" — "No, Mr. Bond, I expect you to die!" — Goldfinger (1964)
+5. "For England, James?" — "No, for me." — GoldenEye (1995)
+```
+
 #
 
 ![007](https://github.com/sourceduty/James_Bond_Chat/assets/123030236/7f9d9e91-71c6-4acd-8d57-16d7164e683e)
+
+#
+
+![Bond Bourne Meme](https://github.com/user-attachments/assets/123e8661-b3f7-4673-82f0-b01a138b5476)
 
 ***
 Copyright (C) 2024, Sourceduty - All Rights Reserved.
