@@ -20,13 +20,7 @@
 5. "For England, James?" — "No, for me." — GoldenEye (1995)
 ```
 
-#
-
-![007](https://github.com/sourceduty/James_Bond_Chat/assets/123030236/7f9d9e91-71c6-4acd-8d57-16d7164e683e)
-
-#
-
-![Bond Bourne Meme](https://github.com/user-attachments/assets/123e8661-b3f7-4673-82f0-b01a138b5476)
+![Bond 007](https://github.com/user-attachments/assets/e8530aad-1c7e-4ff1-88f9-c01c74cc8dec)
 
 ***
 Copyright (C) 2024, Sourceduty - All Rights Reserved.
