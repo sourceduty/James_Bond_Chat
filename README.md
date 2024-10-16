@@ -20,8 +20,6 @@
 5. "For England, James?" — "No, for me." — GoldenEye (1995)
 ```
 
-![Bond 007](https://github.com/user-attachments/assets/e8530aad-1c7e-4ff1-88f9-c01c74cc8dec)
-
 #
 ### Related Links
 
