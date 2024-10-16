@@ -22,5 +22,12 @@
 
 ![Bond 007](https://github.com/user-attachments/assets/e8530aad-1c7e-4ff1-88f9-c01c74cc8dec)
 
+#
+### Related Links
+
+[ChatGPT](https://github.com/sourceduty/ChatGPT)
+<br>
+[James Bond Gadgets](https://github.com/sourceduty/James_Bond_Gadgets/tree/main)
+
 ***
 Copyright (C) 2024, Sourceduty - All Rights Reserved.
