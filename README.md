@@ -8,10 +8,6 @@
 
 'James Bond Chat' can help by providing an entertaining and engaging interaction filled with classic Bond quotes. Users can request specific lines or enjoy spontaneous responses that reflect Bond's characteristic humor and style. The chatbot can also explain the context of famous quotes, adding depth to the experience for those interested in the stories behind the lines. Perfect for parties, casual chats, or just a bit of fun, 'James Bond Chat' brings a touch of 007's sophistication and wit to any conversation.
 
-...........................................................................................................................
-
-![Bond](https://github.com/user-attachments/assets/6e7879ec-d72f-44a9-88c3-16a7c9d85784)
-
 ```
 1. "The name's Bond. James Bond." — Dr. No (1962)
 2. "Shaken, not stirred." — Goldfinger (1964)
