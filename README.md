@@ -27,5 +27,8 @@
 <br>
 [James Bond Gadgets](https://github.com/sourceduty/James_Bond_Gadgets/tree/main)
 
+#
+![Gold](https://github.com/user-attachments/assets/2f2cfd6c-13bf-4741-8c89-fa8e561f9693)
+
 ***
 Copyright (C) 2024, Sourceduty - All Rights Reserved.
